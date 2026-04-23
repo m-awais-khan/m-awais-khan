@@ -15,12 +15,45 @@ I specialize in building intelligent, scalable applications by merging the world
 
 ### 🚀 Technical Arsenal
 
-- **Languages:** Python, JavaScript, C++, C#, C, SQL, HTML/CSS, Assembly
-- **AI & Machine Learning:** Deep Learning, Neural Networks, Large Language Models (LLMs), LangChain, Generative AI (Gemini, Qwen), Scikit-Learn, NumPy, Pandas
-- **Web Development:** React, Node.js, Express.js, Django, RESTful APIs, JWT & OAuth Authentication
-- **Cloud & Databases:** MongoDB, Supabase, AWS, Hugging Face Spaces, Vercel, Render
-- **Tools & Platforms:** Git, GitHub, Unity, Proteus Design Suite, Streamlit, Gradio
-- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), System Architecture, Digital Logic Design
+**Programming Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,cs,c,html,css" alt="Programming Languages" />
+  </a>
+</p>
+
+**Web Development & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,django" alt="Web Development" />
+  </a>
+</p>
+
+**Cloud & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,supabase,aws,vercel" alt="Cloud & Databases" />
+  </a>
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,unity,vscode,visualstudio" alt="Tools & Platforms" />
+  </a>
+</p>
+
+**AI, Machine Learning & Core Concepts**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Neural%20Networks-black?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Generative%20AI-black?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=4dABcf" />
+  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-black?style=flat-square" />
+</p>
 
 ---
 
