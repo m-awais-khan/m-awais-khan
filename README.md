@@ -82,9 +82,9 @@ I specialize in building intelligent, scalable applications by merging the world
     *   A collection of 5 interactive web-based games, ranging from 3D platformers to space survival simulators.
 
 #### ⚡ Engineering & Systems
-*   **[Traffic Light Controller](https://github.com/m-awais-khan/traffic-light-controller)**
+*   **[24-Hour Digital Clock/Counter](https://github.com/m-awais-khan/traffic-light-controller)**
     *   *Proteus, Digital Logic Design*
-    *   A comprehensive digital logic circuit translating theoretical gate configurations into a functional physical breadboard prototype.
+    *   A comprehensive 24-hour digital clock and counter system demonstrating practical applications of digital electronics and sequential logic.
 *   **[Student Record & Pesticide Lab Management Systems](https://github.com/m-awais-khan)**
     *   *C++, Command Line*
     *   Robust C++ applications featuring complete CRUD operations and statistical reporting functionalities.
