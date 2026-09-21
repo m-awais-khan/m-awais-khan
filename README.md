@@ -18,28 +18,28 @@ I specialize in building intelligent, scalable applications by merging the world
 **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,cs,c,html,css" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,js,rust,cpp,cs,c,html,css" alt="Programming Languages" />
   </a>
 </p>
 
-**Web Development & Frameworks**
+**Web & Desktop Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi" alt="Web Development" />
+    <img src="https://skillicons.dev/icons?i=react,tauri,nodejs,express,django,fastapi" alt="Web & Desktop Frameworks" />
   </a>
 </p>
 
 **Cloud & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,supabase,aws,vercel" alt="Cloud & Databases" />
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,supabase,aws,vercel" alt="Cloud & Databases" />
   </a>
 </p>
 
 **Tools & Platforms**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,unity,vscode,visualstudio" alt="Tools & Platforms" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,unity,vscode,visualstudio" alt="Tools & Platforms" />
   </a>
 </p>
 
@@ -58,6 +58,11 @@ I specialize in building intelligent, scalable applications by merging the world
 ---
 
 ### 💡 Featured Projects
+
+#### ☁️ Cloud & Desktop Systems
+*   **[Unlim Clout — Unlimited Desktop Cloud Storage](https://github.com/m-awais-khan/unlim-clout)**
+    *   *Tauri v2, Rust, React, Python (FastAPI), Docker, Telegram MTProto API, GitHub Actions*
+    *   A high-performance desktop cloud storage client turning Telegram into an unlimited private drive, featuring automated Google Drive & Google Colab cloud transfer pipelines and CI/CD automated release builds.
 
 #### 🤖 AI & Machine Learning
 *   **[Watchlist Tracker with Personalized AI Suggestions](https://orderly-watchlist.vercel.app/)**
