@@ -15,7 +15,7 @@ I specialize in building intelligent, scalable applications by merging the world
 
 ### 🚀 Technical Arsenal
 
-**Programming Languages**
+**Languages**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,cpp,cs,c,html,css" alt="Programming Languages" />
@@ -25,7 +25,7 @@ I specialize in building intelligent, scalable applications by merging the world
 **Web Development & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,django" alt="Web Development" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi" alt="Web Development" />
   </a>
 </p>
 
