@@ -3,8 +3,8 @@
 <h3 align="center">Software & AI Engineer | Innovating with Full-Stack & Machine Learning</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/m--awais-khan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:awais.khan.dot@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/m--awais-khan" target="_blank" title="LinkedIn Profile"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" title="LinkedIn Profile" /></a>
+  <a href="mailto:awais.khan.dot@gmail.com" title="Send an Email"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Send an Email" /></a>
 </p>
 
 <p align="center">
@@ -17,42 +17,55 @@ I specialize in building intelligent, scalable applications by merging the world
 
 **Languages**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,rust,cpp,cs,c,html,css" alt="Programming Languages" />
-  </a>
+  <a href="https://skillicons.dev" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /></a>
+  <a href="https://skillicons.dev" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://skillicons.dev" title="Rust"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust" /></a>
+  <a href="https://skillicons.dev" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" /></a>
+  <a href="https://skillicons.dev" title="C#"><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" /></a>
+  <a href="https://skillicons.dev" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" /></a>
+  <a href="https://skillicons.dev" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /></a>
+  <a href="https://skillicons.dev" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /></a>
 </p>
 
 **Web & Desktop Frameworks**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tauri,nodejs,express,django,fastapi" alt="Web & Desktop Frameworks" />
-  </a>
+  <a href="https://skillicons.dev" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></a>
+  <a href="https://skillicons.dev" title="Tauri"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" title="Tauri" /></a>
+  <a href="https://skillicons.dev" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></a>
+  <a href="https://skillicons.dev" title="Express.js"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" /></a>
+  <a href="https://skillicons.dev" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" /></a>
+  <a href="https://skillicons.dev" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" /></a>
 </p>
 
 **Cloud & Databases**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,supabase,aws,vercel" alt="Cloud & Databases" />
-  </a>
+  <a href="https://skillicons.dev" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
+  <a href="https://skillicons.dev" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
+  <a href="https://skillicons.dev" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" /></a>
+  <a href="https://skillicons.dev" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" /></a>
+  <a href="https://skillicons.dev" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" /></a>
 </p>
 
 **Tools & Platforms**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,unity,vscode,visualstudio" alt="Tools & Platforms" />
-  </a>
+  <a href="https://skillicons.dev" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
+  <a href="https://skillicons.dev" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
+  <a href="https://skillicons.dev" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" /></a>
+  <a href="https://skillicons.dev" title="Unity"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity" /></a>
+  <a href="https://skillicons.dev" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" /></a>
+  <a href="https://skillicons.dev" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio" /></a>
 </p>
 
 **AI, Machine Learning & Core Concepts**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Neural%20Networks-black?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Generative%20AI-black?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=4dABcf" />
-  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square&logo=keras&logoColor=white" alt="Deep Learning" title="Deep Learning" />
+  <img src="https://img.shields.io/badge/-Neural%20Networks-black?style=flat-square&logo=tensorflow&logoColor=white" alt="Neural Networks" title="Neural Networks" />
+  <img src="https://img.shields.io/badge/-Generative%20AI-black?style=flat-square&logo=google&logoColor=white" alt="Generative AI" title="Generative AI" />
+  <img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" title="LangChain" />
+  <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=4dABcf" alt="NumPy" title="NumPy" />
+  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas" title="Pandas" />
+  <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-black?style=flat-square" alt="Data Structures & Algorithms" title="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-black?style=flat-square" alt="Object Oriented Programming" title="Object Oriented Programming" />
 </p>
 
 ---
