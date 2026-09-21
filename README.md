@@ -121,10 +121,10 @@ I specialize in building intelligent, scalable applications by merging the world
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-awais-khan&show_icons=true&theme=radical&hide_border=true" alt="Awais's GitHub stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=m-awais-khan&show_icons=true&theme=radical&hide_border=true" alt="Awais's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-awais-khan&theme=radical&hide_border=true" alt="Awais's GitHub streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-awais-khan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=m-awais-khan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
